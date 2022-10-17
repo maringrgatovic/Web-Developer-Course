@@ -4,5 +4,3 @@ While doing the course on how to be a web developer I will store all the exercis
 **CSS Robot:** [https://maringrgatovic.github.io/WDC-CSS-Robot/](https://github.com/maringrgatovic/WDC-CSS-Robot)
 
 **CSS Grid Simple Layout:** https://github.com/maringrgatovic/WDC-CSS-Grid-Simple-Layout
-
-**Startup landing page:** https://maringrgatovic.github.io/Startup-Landing-Page/
