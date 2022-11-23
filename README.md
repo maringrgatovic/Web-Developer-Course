@@ -14,3 +14,5 @@ While doing the course on how to be a web developer I will store all the exercis
 **JavaScript Advanced Exercises:** https://github.com/maringrgatovic/WDC-Javascript-Advanced-Exercise
 
 **JavaScript Challenges:** https://github.com/maringrgatovic/WDC-JS-Challenges
+
+**React Robofriend:** https://github.com/maringrgatovic/WDC-React-Robofriends
