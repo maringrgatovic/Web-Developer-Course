@@ -19,6 +19,6 @@ While doing the course on how to be a web developer I will store all the exercis
 
 **Asynchronous JavaScript:** https://github.com/maringrgatovic/WDC-JS-Asynchronous
 
-**React Face-Recognition App:** 
-  FRONTEND: https://github.com/maringrgatovic/WDC-facerecognition-frontend
+**React Face-Recognition App:** <br>
+  FRONTEND: https://github.com/maringrgatovic/WDC-facerecognition-frontend<br>
   BACKEND: https://github.com/maringrgatovic/WDC-facerecognition-frontend
